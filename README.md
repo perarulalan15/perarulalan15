@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Perarulalan .V</h1>
+<h3 align="center">"Building a Smarter Future: Exploring the Frontiers of Technology"</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perarulalan15&label=Profile%20views&color=0e75b6&style=flat" alt="perarulalan15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=perarulalan15" alt="perarulalan15" /></a> </p>
