@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **v.perarulalan15@gmail.com**
 
+- Familiarize yourself with my background : https://drive.google.com/file/d/1A66AX5qiuAlamY_qAcmD_LykAtMLqtip/view?usp=sharing
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/perarulalan15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perarulalan15" height="30" width="40" /></a>
