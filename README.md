@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **v.perarulalan15@gmail.com**
 
-- Familiarize yourself with my background : https://drive.google.com/file/d/1A66AX5qiuAlamY_qAcmD_LykAtMLqtip/view?usp=sharing
+- 💼 Familiarize yourself with my background : https://drive.google.com/file/d/1A66AX5qiuAlamY_qAcmD_LykAtMLqtip/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
