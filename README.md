@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at my github repository
 
-- 📫 How to reach me **v.perarulalan15@gmail.com**
+- 📫 How to reach me **perarulalan01@gmail.com**
 
 - 💼 Familiarize yourself with my background : https://drive.google.com/file/d/1A66AX5qiuAlamY_qAcmD_LykAtMLqtip/view?usp=sharing
 
