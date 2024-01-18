@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Perarulalan .V</h1>
+<h1 align="center">I'm Perarulalan .V</h1>
 <h3 align="center">"Aspiring Data Scientist"</h3>
 
 <div class="container" align="center">
