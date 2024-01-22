@@ -8,7 +8,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on Frontend Development<br>👯 I’m looking to collaborate on deep learning and neural network projects<br>🤝 I’m looking for help with Code Review and Feedback<br>🌱 I’m currently learning Deep learning, Neural Networks<br>💬 Ask me about Machine learning and FullStack Development<br>📄 Know about my experiences [https://drive.google.com/file/d/1JoQ_JAUYu-pcq8rXiaqTo2O08PbC23YI/view?usp=drive_link](https://drive.google.com/file/d/1JoQ_JAUYu-pcq8rXiaqTo2O08PbC23YI/view?usp=sharing)
+🔭 I’m currently working on Frontend Development<br>👯 I’m looking to collaborate on deep learning and neural network projects<br>🤝 I’m looking for help with Code Review and Feedback<br>🌱 I’m currently learning Deep learning, Neural Networks<br>💬 Ask me about Machine learning and FullStack Development<br>📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1JoQ_JAUYu-pcq8rXiaqTo2O08PbC23YI/view?usp=drive_link](https://drive.google.com/file/d/1JoQ_JAUYu-pcq8rXiaqTo2O08PbC23YI/view?usp=sharing))
 
 
 ## 🌐 Socials:
