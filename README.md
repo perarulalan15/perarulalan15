@@ -8,7 +8,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on Frontend Development<br>👯 I’m looking to collaborate on deep learning and neural network projects<br>🤝 I’m looking for help with Code Review and Feedback<br>🌱 I’m currently learning Deep learning, Neural Networks<br>💬 Ask me about Machine learning and FullStack Development<br>📄 To Reach Me: perarulalan0115@gmail.com
+🔭 I’m currently working on Frontend Development<br>👯 I’m looking to collaborate on deep learning and neural network projects<br>🤝 I’m looking for help with Code Review and Feedback<br>🌱 I’m currently learning Deep learning, Neural Networks and NLP<br>💬 Ask me about Machine learning and FullStack Development<br>📄 To Reach Me: perarulalan0115@gmail.com
 
 
 ## 🌐 Socials:
