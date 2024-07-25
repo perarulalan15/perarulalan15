@@ -4,7 +4,7 @@
 <h3 align="center">"Aspiring Machine Learning Engineer"</h3>
 
 <div class="container" align="center">
-  <img alt="Coding" width="600" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+  <img alt="Coding" width="600" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1721925399~exp=1721928999~hmac=2ccb4ddaaf5c446046364832f693401294bb8fbdf24095a8c32bba03a92f1eb4&w=740">
 </div>
 
 # 💫 About Me:
