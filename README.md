@@ -4,7 +4,7 @@
 <h3 align="center">"Aspiring Machine Learning Engineer"</h3>
 
 <div class="container" align="center">
-  <img alt="Coding" width="600" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1721925399~exp=1721928999~hmac=2ccb4ddaaf5c446046364832f693401294bb8fbdf24095a8c32bba03a92f1eb4&w=740">
+  <img alt="Coding" width="600" src="https://github.com/user-attachments/assets/cd900905-e291-4ca2-8029-b7d9327f2fb3">
 </div>
 
 # 💫 About Me:
