@@ -8,7 +8,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on computer vision<br>👯 I’m looking to collaborate on deep learning and neural network projects<br>🤝 I’m looking for help with Code Review and Feedback<br>🌱 I’m currently learning Deep learning, Neural Networks and NLP<br>📄 To Reach Me: perarulalan01@gmail.com
+🔭 I’m currently working on NLP<br>👯 I’m looking to collaborate on deep learning and neural network projects<br>🤝 I’m looking for help with Code Review and Feedback<br>🌱 I’m currently learning Deep learning, Neural Networks and NLP<br>📄 To Reach Me: perarulalan01@gmail.com
 
 
 ## 🌐 Socials:
