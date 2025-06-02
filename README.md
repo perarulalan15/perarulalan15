@@ -27,3 +27,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=perarulalan15&icon=1&color=8)](https://visitcount.itsvg.in)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Perarulalan15?theme=light&font=Poppins&ext=heatmap)
+
